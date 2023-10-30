@@ -6,8 +6,8 @@ Project: Making a interactive free roaming world
 
 ---
 
-X/X/XX:
-* Text
+10/28/23:
+During this week I started looking into the tool of unity.
 
 X/X/XX:
 * Text
