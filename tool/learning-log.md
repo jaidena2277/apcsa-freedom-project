@@ -8,7 +8,7 @@ Project: Making a interactive free roaming world
 
 10/28/23:
 During this week I started looking into the two different tools. First was Adruinos and second was unity. 
-the first half of the week was thinking about what to make and watching videos on adruinos. Such as this [90 minute video]([https://courses.projectstem.org/](https://youtu.be/BLrHTHUjPuw?si=UR6eyHlZbrSVN9N3) 
+the first half of the week was thinking about what to make and watching videos on adruinos. Such as this [90 minute video](https://youtu.be/BLrHTHUjPuw?si=UR6eyHlZbrSVN9N3))
 
 
 X/X/XX:
