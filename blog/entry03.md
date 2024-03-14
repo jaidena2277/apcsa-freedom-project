@@ -5,7 +5,7 @@ Over the 2 months that we had to work on our freedom project we have improved qu
 ![image](https://github.com/jaidena2277/apcsa-freedom-project/assets/91745222/3b6486e5-95af-442c-8e06-f915cd944d1c)
 Here is a picture of the character jumping to show how the animation looks. I moves the character next to a wall so you can see the difference in height from the ground to the wall. 
 ![image](https://github.com/jaidena2277/apcsa-freedom-project/assets/91745222/b042c910-99fd-4dfb-a037-ea2c9ef4aaef)
-In this picture I am showing the walking animation and how you can see the legs are moving. There is a sprint which the character can do that I had to import through the [assets store] but its hard to show the character sprinting because when I try to pause the project the character stops moving before I can press the pause button so walking is the best I can show you.
+In this picture I am showing the walking animation and how you can see the legs are moving. There is a sprint which the character can do that I had to import through the [assets store](https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526?aid=1101l96nj&pubref=starterassets&utm_campaign=unity_affiliate&utm_medium=affiliate&utm_source=partnerize-linkmaker) but its hard to show the character sprinting because when I try to pause the project the character stops moving before I can press the pause button so walking is the best I can show you.
 
 
 
