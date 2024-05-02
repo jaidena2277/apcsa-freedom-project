@@ -6,7 +6,10 @@ During the past month, my team and I have been working on further developing the
 
 ![image](https://github.com/jaidena2277/apcsa-freedom-project/assets/91745222/f987b4ee-827d-434b-8656-d8a495c41fb8)![image](https://github.com/jaidena2277/apcsa-freedom-project/assets/91745222/691134e3-6fa9-4605-869b-46b2834838a0)
 
-In the first image we have the capsule we used to be the player body and besides it is the camera that is supposed to be what it sees through. When we first made this, the green capsule spawned in somewhere far away and when we pressed play on the game the character would fall off the map due to its pov being super far away from the map. We found out that we have to drag it from wherever it was and align it with the real capsule that would be the body of the character.
+In the first image we have the capsule we used to be the player body and besides it is the camera that is supposed to be what it sees through. When we first made this, the green capsule spawned in somewhere far away and when we pressed play on the game the character would fall off the map due to its pov being super far away from the map. We found out that we have to drag it from wherever it was and align it with the real capsule that would be the body of the character. The second image is just showing how it looks like when it is aligned and ready to move around.
+
+### Skills
+In terms of skills 
 
 
 
