@@ -1,7 +1,8 @@
 # Entry 4
-##### X/X/XX
+##### 3/16/24
 
-Text
+### Map development and change in pov
+During the past month
 
 [Previous](entry03.md) | [Next](entry05.md)
 
